@@ -6,3 +6,9 @@
 .minecraft/crash-reports
 .minecraft/screenshots
 .minecraft/logs
+
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
