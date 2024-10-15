@@ -1,0 +1,13 @@
+filename = 'mcwbridgesabnormals-1.20.1-1.1.jar'
+name = "Macaw's Bridges - Abnormals"
+side = 'both'
+
+[download]
+hash = '0d5840f5e46083101ba8be42e83ab631bb28f354'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5408505
+project-id = 621057
