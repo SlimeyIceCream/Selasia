@@ -3,6 +3,6 @@
 .minecraft/usercache.json
 .minecraft/usernamecache.json
 .minecraft/options.txt
-.minecraft/crash=reports
+.minecraft/crash-reports
 .minecraft/screenshots
 .minecraft/logs
