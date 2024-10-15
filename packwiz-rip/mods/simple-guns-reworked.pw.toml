@@ -1,0 +1,13 @@
+name = "Simple Guns: reworked"
+filename = "simple_guns  forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "265f7333db00a55c51d258d92ef31b948208abea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5241640
+project-id = 437035

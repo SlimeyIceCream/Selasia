@@ -1,0 +1,13 @@
+name = "Just Enough Guns"
+filename = "JustEnoughGuns-0.7.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n1EbSfq3/versions/I0MKymjq/JustEnoughGuns-0.7.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "630c7280b9b4907f3264a979211e16e11bad1a9cfc402afd336f6736f5d0b6dbd50ae42b072c29b605bf20f2078be53b525c46538e1a54f50aaed2ac3c455296"
+
+[update]
+[update.modrinth]
+mod-id = "n1EbSfq3"
+version = "I0MKymjq"
