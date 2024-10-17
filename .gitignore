@@ -13,3 +13,4 @@ instance.cfg
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+instance.cfg
